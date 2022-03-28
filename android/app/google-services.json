@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830191729456",
+    "project_id": "react-colors-5bed6",
+    "storage_bucket": "react-colors-5bed6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830191729456:android:a9d107b9d8162d9ee4a6f5",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830191729456-rp0cp9i0i89tcbvk3narsaj32kk0221n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7ZuzJr_KTr48hX78RyCyQPLcdDj77iwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830191729456-rp0cp9i0i89tcbvk3narsaj32kk0221n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

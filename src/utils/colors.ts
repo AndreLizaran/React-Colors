@@ -1,0 +1,1 @@
+export const backgroundGray = '#1B1A17';
